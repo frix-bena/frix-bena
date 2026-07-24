@@ -121,3 +121,13 @@ A capstone dashboard built during the PromptBI Hackathon, designed to ingest, pr
 
 ---
 
+## 📊 GitHub Stats
+
+
+
+  <!-- Streak Stats Card -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=frix-bena&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+  <br />
+
