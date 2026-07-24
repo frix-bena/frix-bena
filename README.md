@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7038ff&height=200&section=header&text=Bernard%20Wachira&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Header Wave" width="100%" />
   <br/>
   <a href="https://github.com/Readme-Workflows/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Backend+Web+Developer;Computer+Science+Student+%40+University+of+Embu;Building+Scalable+Backend+Architectures;AI%2FML+%26+Product+Engineering" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Backend+Web+Developer;Computer+Science+Student;Building+Scalable+Backend+Architectures;AI%2FML+%26+Product+Engineering" alt="Typing Animation" />
   </a>
   <br/>
   <img src="https://img.shields.io/badge/Location-Nairobi,_Kenya-4b0082?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
